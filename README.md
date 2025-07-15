@@ -1,6 +1,6 @@
 # Data Analytics – 45 Days Learning Program
 
-Welcome to the official repository for the **HTD (Hire-Train-Deploy) Data Analytics Program**. This 45-day roadmap equips learners with essential skills in Python, SQL, Statistics, Power BI, and Interview Preparation to make them job-ready for analytics roles.
+Welcome to the official repository for the **Data Analytics Program**. This 45-day roadmap equips learners with essential skills in Python, SQL, Statistics, Power BI, and Interview Preparation.
 
 ---
 
