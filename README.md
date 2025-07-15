@@ -11,13 +11,13 @@ Welcome to the official repository for the **HTD (Hire-Train-Deploy) Data Analyt
 | Session 1 | Intro to Python & Installation |
 | Session 2 | Data Types & User Input |
 | Session 3 | Operators & Expressions |
-| Session 4 | Conditional Statements |
-| Session 5 | Loops and Iterations |
-| Session 6 | Functions in Python |
-| Session 7 | OOP Basics |
-| Session 8 | OOP Advanced |
-| Session 9 | File & Exception Handling |
-| Session 10 | Regular Expressions & GUI |
+| Session 4 | Conditional Statements, Loops and Iterations |
+| Session 5 | Functions in python |
+| Session 6 | Object Oriented Programming: Basics |
+| Session 7 | Object Oriented Programming: Advanced|
+| Session 8 | File & Exception Handling |
+| Session 9 | Regular Expressions & GUI |
+| Session 10 | Interview Questions on Python + Project Discussion |
 
 ---
 
@@ -25,14 +25,14 @@ Welcome to the official repository for the **HTD (Hire-Train-Deploy) Data Analyt
 
 | Session | Topic |
 |---------|---------------------------------------------|
-| Session 1 | Intro to Statistics |
-| Session 2 | Measures of Central Tendency |
-| Session 3 | Measures of Dispersion |
-| Session 4 | Probability Concepts |
-| Session 5 | Probability Distributions |
-| Session 6 | Sampling and EDA in Excel |
-| Session 7 | Hypothesis Testing |
-| Session 8 | Excel Tools and Add-ons |
+| Session 1 | Intro to Statistics, Variables in Statistics |
+| Session 2 | Measures of Central Tendency, Measures of Dispersion |
+| Session 3 | Graphical Representations using EXCEL, Sampling and EDA in Excel |
+| Session 4 | Probability Concepts, Probability Distributions |
+| Session 5 | Correlation, Skewness and Kurtosis |
+| Session 6 | Hypothesis Testing, T-test, Z-test |
+| Session 7 | Chi-Square test, ANOVA|
+| Session 8 | Interview Questions |
 
 ---
 
