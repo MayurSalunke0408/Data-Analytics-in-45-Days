@@ -1,0 +1,60 @@
+1) Tell me about yourself
+2) Why data analytics?
+3) What tools are you confident in?
+4) What are your strengths and weaknesses?
+5) What are your short term n long term goal?
+6) Why Python for data analysis?
+7) Difference between list and tuple
+8) What is a DataFrame?
+9) Difference between loc and iloc.
+10) What is a lambda function?
+11) What is break, continue, pass?
+12) What is a function?Difference between arguments and parameters.
+13) Explain class and object
+14) What is __init__?
+15) What is inheritance? and its type
+16) What is exception handling?
+17) How do you remove duplicates?
+18) How to detect outliers?
+19) Programs: Check palindrome
+20) Factorial number
+21) How to find even/odd numbers in a list?
+22) What are Pivot Tables?
+23) Difference between COUNT, COUNTA, COUNTBLANK
+24) What is INDEX + MATCH?
+25) What is data validation?
+26) What is mean, median, mode?
+27) Difference between variance and standard deviation
+28) What is correlation? and its type
+29) Kurtosis n skewness ?
+30) What is normal distribution?
+31) What is p-value?
+32) Type I error n type II error
+33) Testing of hypo: 1) chi square 2) ANOVA
+34) parametric n non parametric tests ?
+35) what is order of execution of sql queries
+36) Difference between WHERE and HAVING
+37) What is GROUP BY?
+38) Difference between DELETE, TRUNCATE, DROP
+39) Joins and its types
+40) Constraints in sql.
+41) What are aggregate functions in sql?
+42) What is a primary key? and foreign key?
+43) What is CTE in sql?
+44) What are triggers?
+45) synatxes 1) between 2) like 3) in
+46) Difference between Power BI Desktop and Service
+47) diff between measures and calculated columns
+48) What is DAX?
+49) WHat is data modelling and explain star schema.?
+50) What is Power Query? what is the role of power query in Analysis?
+51) Explain Power BI architecture end to end.
+52) What are datasets, reports, dashboards?
+53) What is fact table and dimension table?
+54) Difference between Power Query and DAX.
+55) What is Row Level Security (RLS)?
+56) What are slicers vs filters?
+57) Difference between views and stored procedures.
+58) Find top 5 customers by revenue(SQL)
+59) What KPIs are important for bank performance?
+60) How do you calculate customer lifetime value (CLV)?
